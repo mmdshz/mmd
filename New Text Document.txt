@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 mershad 
 mohi
 mahi
 mmd
+=======
+masoood
+aloo
+nasi
+nanaz
+>>>>>>> mmd
